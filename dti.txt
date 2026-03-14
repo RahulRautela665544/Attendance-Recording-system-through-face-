@@ -1,0 +1,184 @@
+Product Title
+
+It should be catchy, descriptive, Self-describing, and clear. 
+This Question Carries One Mark.
+SmartFace Attend: AI-Based Face Recognition Attendance System
+8.Describe Your Product.
+
+This is like answering someone's question. "What are you doing as a Design thinking and innovation Project" or "What is your Project" or "Can you tell something about your Project". Please write a Minimum 500 and Maximum 1000 Characters. 
+This Question Carries One Mark.
+
+Our Design Thinking and Innovation project is about building a modern attendance system using face recognition. In many colleges, attendance is still taken through QR codes. Because of this, some students share the code with their friends, and attendance gets marked even if they are not present in class. Since attendance is important for internal marks, this creates problems and makes the system unfair.
+
+To fix this issue, we are creating a system that checks students by recognizing their faces and confirming their presence through simple head movements. This helps ensure that only students who are actually sitting in the classroom can mark their attendance. The system also saves the time of entry, which makes the record more clear and trustworthy. It works properly even if students are wearing masks or glasses.
+
+The main purpose of our project is to make attendance more honest, accurate, and secure. Through this project, we want to reduce false attendance, improve discipline, and support teachers and institutions in managing attendance in a better way.
+9.Why has the team chosen this product to develop?
+
+It basically reasons for your choice of this project from so many other options that are available. How it aligns with your interests, personality, strength, skills, ambitions or passion. Please write a Minimum 500 and Maximum 1000 Characters. This cannot be the same as other teams.
+This Question Carries One Mark. 
+
+We selected this project after noticing several problems in the attendance system used in our college. Earlier, attendance was taken through QR codes that stayed active for some time, making it easy for students to share them. Later, the QR code was changed every five seconds so that screenshots could not be reused. Still, many students managed to mark attendance for their friends by quickly switching between different accounts. This made the system unfair for regular students.
+
+These experiences motivated us to find a better and more reliable solution. This project matches our interest in learning new technologies and solving real-life problems. It helps us improve our technical skills, creative thinking, and teamwork.
+
+We believe in honesty and responsibility, and we want to design systems that promote these values. This project reflects our personality and our goal of creating useful and trustworthy solutions for society.
+10.What Problem(s) it solves?
+
+What issue or need it address? Please write Minimum 500 and Maximum 1000 Characters.
+This Question Carries One Mark.
+
+This project solves the problem of unfair and unreliable attendance marking in educational institutions. In the existing system, attendance is often recorded using QR codes, which students can easily share with others. Even when the QR code changes frequently, some students still manage to mark attendance for their friends by switching accounts. This leads to false attendance records and affects sincere students.
+
+Another major issue is the lack of proper verification of physical presence. Teachers cannot always confirm whether a student is actually present in class. This reduces discipline and weakens the learning environment. Since attendance is linked to internal marks, incorrect records create inequality among students.
+
+Our system addresses these problems by using face recognition and head movement verification to confirm real presence. It also records the exact time of attendance, making the process transparent and trustworthy. This helps institutions maintain accurate records, reduce misuse, and promote honesty and responsibility among students.
+11.Who will be the potential clients/customers/users/startups/beneficiaries of the product? Describe appropriately. Why do you think they are your target audience?
+
+Be specific so that the prospective target for your project is clear. Please write a minimum of 500 and a maximum of 1000 Characters.
+This Question Carries One Mark.
+
+The main users of our attendance system are educational institutions such as colleges, universities, and training centers. Teachers and faculty members will be the primary users, as they are responsible for monitoring and managing student attendance. This system will help them save time, reduce manual work, and maintain accurate records.
+
+Students are also important beneficiaries of this project. Honest and regular students will benefit because the system prevents false attendance and ensures fairness in internal assessments. It motivates students to attend classes regularly and take responsibility for their academic performance.
+
+Institution administrators and management staff are another group of potential users. They require reliable data for academic planning, performance evaluation, and reporting purposes. Our system provides transparent and trustworthy attendance records, which support better decision-making.
+
+We chose these groups as our target audience because they are directly affected by attendance-related problems. By addressing their needs, our project can create maximum impact and improve the overall academic environment.
+12.What will be the innovation in this project?
+
+Write at least Three Innovations. You may be proposing a new technology model, new paradigm or framework to solve the problem.  Please write Minimum 1000 Maximum 2000 Characters. 
+This question carries two marks.
+
+The first major innovation in our project is the use of face recognition combined with head movement verification for attendance marking. Unlike traditional systems that rely only on QR codes or manual entry, our system confirms the physical presence of a student by matching their face and checking simple movements such as blinking or head turning. This makes it difficult for students to misuse the system by using photos or fake accounts.
+
+The second innovation is real-time identity verification with time stamping. Our system records attendance along with the exact time when a student is verified. This ensures transparency and accuracy in attendance records. Teachers and administrators can easily track late entries, early exits, and regular attendance patterns. This feature helps in maintaining discipline and improves the reliability of academic records.
+
+The third innovation is the ability of the system to work effectively under different conditions, such as when students are wearing masks, spectacles, or other accessories. The system is designed to adapt to regional and environmental variations, making it suitable for real classroom situations. This improves usability and reduces technical errors.
+
+In addition to these, our project focuses on creating a user-friendly and secure platform that protects student data and prevents unauthorized access. By combining advanced technology with practical design, our system offers a modern, efficient, and fair solution for attendance management. This innovative approach helps educational institutions move towards digital transformation and promotes honesty and responsibility among students.
+13.How it will be different from similar existing solutions?
+
+Take at least three existing applications which are most closer to your project proposal and how you will be differentiating and benchmarking with these three. You have to specifically name those three applications and compare. them Min 1000 Characters and Max 2000 Characters. 
+This Question Carries Two Marks.
+
+Our project is different from existing attendance systems because it focuses on real physical presence using face recognition and head movement verification. To explain this clearly, we have compared our system with three popular solutions.
+
+The first is Microsoft Teams, which is mainly used for online classes and meetings. It provides attendance reports based on user login and meeting participation. However, students can stay logged in without actually attending the class, or someone else can use their account. There is no proper physical or biometric verification. Our system overcomes this problem by verifying the student’s real presence through live face detection and movement checking.
+
+The second is Zoho People, which offers attendance through mobile check-in, GPS, and QR codes. While this is useful, it can still be misused by sharing login details, fake locations, or screenshots. Our system does not depend on location or QR codes. Instead, it confirms identity using facial features and live responses, making misuse much harder.
+
+The third is ZKTeco, which provides biometric machines for fingerprint and face scanning. These systems are costly, require fixed hardware, and may not work well with masks or changing environments. Our solution is more flexible, as it can work with regular cameras or mobile devices and is designed to recognize faces even with masks or glasses.
+
+We will benchmark our system based on accuracy, resistance to fake attendance, cost, ease of use, and data security. By combining affordability, live verification, adaptability, and strong privacy measures, our project offers a more practical and reliable attendance solution compared to existing systems.
+14.What makes it challenging enough to be chosen to be done in four months (Jan - May)?
+
+There are two parts to the question. First, you need to articulate what perspective of the project is challenging enough that make it worthwhile to do as a full semester project. The second is whether it has the proportionate scope of being done in Four Months. (and cannot be done in two months or will not require more than four months). The minimum Character Count is 500 characters and the Maximum is 1000 characters.
+This Question Carries One Mark.
+This project is suitable for a four-month duration because it includes several complex tasks that need time and continuous improvement. Creating a reliable face recognition system with head movement verification requires learning new tools, collecting proper data, and testing the system in real classroom conditions. Making sure that the system works properly with different lighting, masks, and student movements is also challenging.
+
+Another difficult part is combining all features into one smooth system. We need to design the software, manage the database, and create a simple interface for users. Each part must work correctly together, which requires repeated checking and modifications. Ensuring data security and system stability also takes time and careful planning.
+
+At the same time, the project has a clear structure with stages such as research, development, testing, and improvement. Because of this, it cannot be completed well in a short period like two months, but it also does not require more than one semester. This makes it well balanced for a four-month academic project.
+15.How will you measure the success/outcome/quality of your product?
+
+What will be your parameters of achievement in your project and Why? Here you are specifying the assessment criteria of your project (e.g., functionalities completed, commercials generated, created a startup from the idea, etc.) at the final evaluation time. Minimum 500 Characters and Maximum 1000 Characters. 
+This Question Carries One Mark.
+The success of our project will be measured by how accurately and reliably the system records student attendance. One important parameter will be the face recognition accuracy, which shows how correctly the system identifies students under different conditions such as lighting, masks, and classroom environments. A high accuracy rate will indicate that the system is technically strong.
+
+Another key factor will be system reliability and speed. The system should be able to mark attendance within a few seconds without errors or crashes. We will also measure how well the system prevents fake or proxy attendance by testing it with photos, videos, and account-sharing attempts. If these methods fail, it will show that our system is secure.
+
+User satisfaction will also be considered an important parameter. Feedback from teachers and students will help us understand whether the system is easy to use and useful in daily academic activities. Finally, successful integration of all planned features, proper data storage, and clear attendance reports will indicate that our project has achieved its intended goals.
+16.Resources required for the project and the feasibility of their availability as per the plans.
+
+May be software, Hardware, Datasets, Funds, Equipment etc. Minimum 300 Characters and Maximum 1000 Characters.
+This Question Carries One Mark.
+To develop this project, we require both software and hardware resources. On the software side, we need programming tools such as Python, OpenCV, and machine learning libraries for face recognition and image processing. We will also use database software to store student records and attendance data. These tools are mostly open-source and freely available, which makes them easy to access.
+
+For hardware, we require computers or laptops with good processing power, webcams or mobile cameras for capturing images, and stable internet connectivity for updates and data backup. In some cases, cloud platforms may be used for storage and testing purposes.
+
+We may also need sample face image datasets for training and testing the recognition model. These can be collected with proper permission from students or obtained from public sources. The overall cost of this project is low, as most resources are already available in our institution or can be accessed online. Therefore, the project is feasible within our planned time and budget.
+17.If you are a team of 2 or more then clearly define responsibilities and how each member should be assessed differently.
+
+It should be by Name and Roll No of each Member. Please write a Minimum 500 and Maximum 1000 Characters. 
+This Question Carries One Mark.
+Our project is developed by a team of three members, and each member has been given specific responsibilities based on their skills and interests to ensure smooth and effective work.
+
+Rahul Rautela (Roll No: S24CSEU2020) plays the main role in the project. He is responsible for designing the face recognition system, developing core algorithms, and improving system accuracy. His assessment will be based on technical implementation, innovation, and overall system performance.
+
+Devansh Khanna (Roll No: S24CSEU0830) handles database management, data storage, and software integration. He is responsible for maintaining attendance records and ensuring system stability. His performance will be evaluated based on data handling, security, and system reliability.
+
+Vineet Singh (Roll No: S24CSEU0183) works on user interface design, testing, documentation, and presentation. He ensures that the system is easy to use and properly tested. His assessment will focus on usability, report quality, and testing results.
+
+All members contribute to research, planning, and teamwork. Individual evaluation will be done based on task completion, quality of work, and active participation.
+18.Short-term and long-term planning with detailed and logical steps and timelines.
+
+Please write a Minimum 1000 and Maximum 2000 Characters.
+This Question Carries One Mark.
+Our project will be completed through proper short-term and long-term planning with clearly defined steps and timelines to ensure smooth progress.
+
+In the short term (January to February), we will focus on understanding the problem in detail and gathering necessary information. This includes researching face recognition technology, studying existing attendance systems, and finalizing project requirements. During this phase, we will also collect sample data, select suitable tools and software, and prepare the basic system design. By the end of this stage, we aim to complete the project blueprint and initial model development.
+
+In the mid-term phase (March), we will start full system development. This includes training the face recognition model, integrating head movement verification, designing the database, and building the user interface. Regular testing will be carried out to identify errors and improve performance. Feedback from teachers and students will also be collected to make necessary improvements.
+
+In the long term (April to May), we will focus on system optimization, security enhancement, and final testing. The system will be tested in real classroom conditions to check accuracy, speed, and reliability. Any remaining technical issues will be resolved during this stage. We will also prepare proper documentation, reports, and presentations for final evaluation.
+
+By dividing the project into structured phases such as research, development, testing, and refinement, we ensure that each task is completed on time. This step-by-step planning helps us manage time effectively and achieve project goals within the given four-month period.
+19.Evidence/literature/research/survey etc. in support of the hypothesis or idea to be successful. (Local/National/International Context).
+
+What makes you believe that it will be successful? If there is some validation, supporting theory or literature available, then please cite it here. You can also give some references in this answer that have been used to build up your proposal. Please write a Minimum of 2000 and a Maximum of 4000 Characters.
+This Question Carries Three Marks.
+
+The idea of using face recognition for attendance management is supported by various research studies, technological developments, and real-life implementations at local, national, and international levels. Several research papers published under organizations such as Institute of Electrical and Electronics Engineers (IEEE) highlight the effectiveness of biometric systems in improving identity verification and reducing fraud. These studies show that facial recognition combined with liveness detection provides higher accuracy than traditional methods like manual registers and QR codes.
+
+In the national and international context, many educational institutions have started adopting digital attendance systems based on artificial intelligence. Reports by United Nations Educational, Scientific and Cultural Organization (UNESCO) emphasize the importance of digital transformation in education to improve transparency and accountability. Such reports support the use of smart technologies for better academic management.
+
+Several technology companies have also demonstrated the success of facial recognition systems in real-world applications. For example, platforms developed by Microsoft and other global firms use facial recognition for identity verification in online learning, security, and access control. These systems prove that face-based authentication is reliable, scalable, and widely accepted.
+
+Local surveys and informal observations in our college also support our idea. Many students and teachers have expressed dissatisfaction with QR-based attendance systems due to misuse and proxy marking. Through discussions and feedback sessions, we found that most faculty members prefer a system that verifies real physical presence. This validates the practical need for our project.
+
+From a theoretical perspective, biometric authentication is based on uniqueness, permanence, and measurability of human features. Facial structure and movement patterns are difficult to copy, which makes them suitable for secure identification. Studies in computer vision and machine learning show that modern neural networks can achieve high recognition accuracy even under challenging conditions such as masks, lighting changes, and crowd environments.
+
+We have also referred to research articles, online journals, open-source documentation, and case studies while developing our proposal. These include academic papers on facial recognition algorithms, attendance automation models, and liveness detection techniques. Such literature provides technical guidance and proves that our approach is scientifically valid.
+
+Based on existing research, industry adoption, institutional feedback, and supporting theories, we strongly believe that our project has high potential for success. It addresses a real problem, is backed by proven technology, and aligns with current trends in digital education. With proper implementation and testing, our system can become a reliable and scalable solution for modern attendance management.
+20.Risk Analysis (What are the factors which pose risk of failure of your project and risk of not completing your project by deadline).
+
+How you are taking care of these risks so that they can be avoided. Please write a Minimum 500 and Maximum 1000 Characters.
+This Question Carries One Mark.
+One major risk in our project is technical difficulty in achieving high accuracy in face recognition under different conditions such as poor lighting, masks, and classroom crowding. If the system does not perform well, it may reduce reliability. To manage this risk, we plan to use tested algorithms, collect sufficient training data, and conduct regular performance testing.
+
+Another risk is delay in development due to lack of technical knowledge or unexpected software issues. Learning new tools and fixing errors may take more time than planned. To reduce this risk, we have divided tasks among team members, set weekly targets, and planned regular review meetings.
+
+Data privacy and security is also a potential risk, as mishandling student information can create legal and ethical problems. We will address this by using secure storage, access control, and basic encryption methods.
+
+Time management is another challenge, especially during exams or other academic activities. To avoid missing deadlines, we have prepared a detailed schedule and kept buffer time for unexpected delays.
+
+By planning in advance, improving coordination, and monitoring progress regularly, we aim to minimize risks and complete the project successfully within the given time.
+21.Give Names and emails of Three Persons with whom you have discussed the details of the project and what was their reaction/suggestion.
+
+It is important to converse and take perspective on your proposal from others. One person each from categories (Industry, Your parents, friends, teachers). Please write a Minimum 500 and Maximum 1000 Characters. 
+This Question Carries One Mark.
+We discussed our project idea with three people from different backgrounds to understand various perspectives and improve our proposal.
+
+The first person is Arnav Ahlawat (E23CSEU2298@bennett.edu.in
+), my brother who is currently studying in the third year at Bennett University. He showed interest in the technical aspects of the project and suggested improving the accuracy of face recognition and testing the system in real classroom conditions.
+
+The second person is Janvi Rautela (rautelajanvi07@gmail.com
+), my sister who works as a Software Development Engineer at Amazon. She appreciated the innovative approach and advised us to focus on data security, system scalability, and proper software design. She also guided us on using efficient coding practices.
+
+The third group includes our college faculty members such as Ashwani Kumar, Pawan Kumar, and Anurag Srivastava. They encouraged us to work on practical implementation, proper documentation, and continuous testing.
+22.List down the Ethics, Privacy, Moral and Legal issues related with the project.
+
+Even if there are no issues, then describe how it fulfills all the norms. Please write a Minimum 500 and Maximum 2000 Characters. 
+This Question Carries One Mark.
+Our face recognition–based attendance system involves the use of personal data, so it is important to address ethical, privacy, moral, and legal issues carefully. One major ethical concern is the collection and use of students’ facial data. If this data is misused or shared without permission, it can affect individual privacy. To prevent this, we will collect data only after taking proper consent from students and clearly explaining the purpose of data usage.
+
+Privacy is another important issue. Storing facial images and attendance records creates the risk of data leakage or unauthorized access. To handle this, we will use secure storage methods, restricted access, and basic encryption techniques. Only authorized teachers and administrators will be allowed to view or manage the data.
+
+From a moral perspective, the system must treat all students fairly without discrimination. The face recognition model will be tested with students from different backgrounds to reduce bias and ensure equal accuracy. No student will be forced to use the system without being informed.
+
+Legal issues are also considered, especially related to data protection laws and institutional guidelines. The system will follow college policies and relevant regulations regarding digital data usage. Personal information will not be shared with third parties without permission.
+
+Our project fulfills ethical and legal norms by maintaining transparency, protecting user data, ensuring fairness, and respecting individual rights. By following these principles, we aim to build a trustworthy and responsible attendance system.
+23.We as a team agree that the content or the part of the content is not generated via the AI tool (e.g., ChatGPT).
